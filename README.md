@@ -25,10 +25,13 @@ Este proyecto es una aplicación backend desarrollada en Spring Boot que integra
 
 ### Prerequisites
 
--- Java 17 o superior.
--- Maven como herramienta de construcción.
--- Un servidor Keycloak en ejecución.
--- Base de datos configurada (si es necesario para la aplicación).
+- Java 17 o superior.
+
+- Maven como herramienta de construcción.
+
+- Un servidor Keycloak en ejecución.
+
+- Base de datos configurada (si es necesario para la aplicación).
 
 
 
